@@ -12,4 +12,12 @@
 }
 
 /*Write your CSS rules below!*/
+>&lt;hr&gt;</code> elements.</p>
+            <div class="snippet">
+                <code>
+                hr {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;border: 0;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;height: 1px;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;background: #333;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;background-image: linear-gradient(to right, #ccc, #333, #ccc);<br>
 
